@@ -5,7 +5,7 @@ import json
 import re
 
 query = sys.argv[1]
-markdown_file = "/Users/currant/Documents/Lebowski/TBL.md" # Replace with your file path
+markdown_file = "~your/file/path/here/tbl.md" # Replace with the file path where you saved your markdown file `tbl.md`
 
 try:
     with open(markdown_file, 'r', encoding='utf-8') as f:
