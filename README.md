@@ -12,4 +12,4 @@ Then I vibecoded an Alfred workflow with Gemini so you can search from the Alfre
 
 ## Installation
 
-Note: This repo contains both the source markdown file `tbl.md` that you have to save on your local desktop somewhere you (and Alfred) can find it. You will then need to copy its path on your desktop into the script powering the alfredworkflow. It will not work unless you do this. 
+Installs like any .alfredworkflow
